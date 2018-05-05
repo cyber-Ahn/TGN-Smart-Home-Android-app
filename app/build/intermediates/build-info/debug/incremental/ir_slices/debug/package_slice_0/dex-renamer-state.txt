@@ -1,4 +1,0 @@
-#Sat May 05 13:27:42 CEST 2018
-base.0=C\:\\Users\\cyber\\Desktop\\TGNSmartHome10\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
