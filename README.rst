@@ -12,7 +12,7 @@ Android App for TGN Smart Home (Android Studio version)
 
 .. |Build Status| image:: https://caworks-sl.de/images/build.png
    :target: https://caworks-sl.de
-.. |Android versions| image:: https://caworks-sl.de/images/python.png
+.. |Android versions| image:: https://caworks-sl.de/images/android.png
    :target: https://caworks-sl.de
 
 .. |Bild_1| image:: https://caworks-sl.de/Smart_Home_Images/TGNSmartHomeAndroid1.png
