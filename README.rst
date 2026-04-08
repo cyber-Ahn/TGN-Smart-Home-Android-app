@@ -10,14 +10,14 @@ Android App for TGN Smart Home (Android Studio version)
 
 .. ..
 
-.. |Build Status| image:: https://caworks-sl.de/images/build.png
-   :target: https://caworks-sl.de
-.. |Android versions| image:: https://caworks-sl.de/images/android1.png
-   :target: https://caworks-sl.de
-.. |Android Api| image:: https://caworks-sl.de/images/android2.png
-   :target: https://caworks-sl.de   
+.. |Build Status| image:: https://cyber-ahn.com/images/build.png
+   :target: https://cyber-ahn.com
+.. |Android versions| image:: https://cyber-ahn.com/images/android1.png
+   :target: https://cyber-ahn.com
+.. |Android Api| image:: https://cyber-ahn.com/images/android2.png
+   :target: https://cyber-ahn.com  
 
-.. |Bild_1| image:: https://caworks-sl.de/Smart_Home_Images/TGNSmartHomeAndroid1.png
+.. |Bild_1| image:: https://cyber-ahn.com/Smart_Home_Images/TGNSmartHomeAndroid1.png
    :target: https://github.com/cyber-Ahn/TGN-Smart-Home-Android-app
-.. |Bild_2| image:: https://caworks-sl.de/Smart_Home_Images/TGNSmartHomeAndroid2.png
+.. |Bild_2| image:: https://cyber-ahn.com/Smart_Home_Images/TGNSmartHomeAndroid2.png
    :target: https://github.com/cyber-Ahn/TGN-Smart-Home-Android-app
